@@ -1,0 +1,18 @@
+20240624 10:44:53 INFO  [main] base.BaseTest BaseTest.java32 - *********************setUpBeforeMethod**************************
+20240624 10:44:57 INFO  [main] base.BaseTest BaseTest.java52 - chrome browser instance chrome created.
+20240624 10:44:57 INFO  [main] base.BaseTest BaseTest.java55 - window is maximized
+20240624 10:44:58 INFO  [main] base.BaseTest BaseTest.java97 - https://tekarch-7b-dev-ed.develop.my.salesforce.comis entered
+20240624 10:44:58 INFO  [main] base.BasePage BasePage.java49 - Page title is: Login | Salesforce
+20240624 10:44:58 INFO  [main] base.BasePage BasePage.java57 - Expected title: Login | Salesforce is displayed
+20240624 10:44:59 INFO  [main] base.BasePage BasePage.java27 - username data is entered in username field textbox
+20240624 10:45:00 INFO  [main] base.BaseTest BaseTest.java104 - browser instance closed
+20240624 10:45:00 INFO  [main] base.BaseTest BaseTest.java41 - ****************tearDownAfterTestMethod*******************
+20240624 10:56:10 INFO  [main] base.BaseTest BaseTest.java32 - *********************setUpBeforeMethod**************************
+20240624 10:56:13 INFO  [main] base.BaseTest BaseTest.java52 - chrome browser instance chrome created.
+20240624 10:56:13 INFO  [main] base.BaseTest BaseTest.java55 - window is maximized
+20240624 10:56:15 INFO  [main] base.BaseTest BaseTest.java97 - https://tekarch-7b-dev-ed.develop.my.salesforce.comis entered
+20240624 10:56:15 INFO  [main] base.BasePage BasePage.java49 - Page title is: Login | Salesforce
+20240624 10:56:15 INFO  [main] base.BasePage BasePage.java57 - Expected title: Login | Salesforce is displayed
+20240624 10:56:17 INFO  [main] base.BasePage BasePage.java27 - username data is entered in username field textbox
+20240624 10:56:17 INFO  [main] base.BaseTest BaseTest.java104 - browser instance closed
+20240624 10:56:17 INFO  [main] base.BaseTest BaseTest.java41 - ****************tearDownAfterTestMethod*******************
